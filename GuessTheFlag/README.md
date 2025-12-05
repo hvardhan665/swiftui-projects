@@ -14,7 +14,7 @@ Players guess country flags from multiple choices; includes score tracking and a
 - Animations & transitions
 
 ## Run
-- Xcode: <Version 26.1.1 (17B100)>
+- Xcode: Version 26.1.1 (17B100)
 - Open `GuessTheFlag.xcodeproj` and run.
 
 ## Screenshots
