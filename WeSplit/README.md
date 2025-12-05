@@ -20,7 +20,7 @@ WeSplit helps split a bill between people and calculates tip amounts. Built whil
 
 ## Screenshots
 
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2025-12-05 at 14 35 00" src="https://github.com/user-attachments/assets/70b9ea9a-20d2-42d8-8e94-12ca7c6e4318" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2025-12-05 at 14 34 52" src="https://github.com/user-attachments/assets/c4d307d8-cf46-4261-a813-ea815f98d488" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2025-12-05 at 14 34 32" src="https://github.com/user-attachments/assets/af4ba579-ab26-41f0-bd9e-199a8206a58a" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2025-12-05 at 14 34 01" src="https://github.com/user-attachments/assets/28dfa1b4-6269-4a30-acf4-25f31497f3fe" />
+<img src="https://github.com/user-attachments/assets/70b9ea9a-20d2-42d8-8e94-12ca7c6e4318" width="300" />
+<img src="https://github.com/user-attachments/assets/c4d307d8-cf46-4261-a813-ea815f98d488" width="300" />
+<img src="https://github.com/user-attachments/assets/af4ba579-ab26-41f0-bd9e-199a8206a58a" width="300" />
+<img src="https://github.com/user-attachments/assets/28dfa1b4-6269-4a30-acf4-25f31497f3fe" width="300" />
