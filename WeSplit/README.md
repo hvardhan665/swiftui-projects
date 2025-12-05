@@ -15,7 +15,7 @@ WeSplit helps split a bill between people and calculates tip amounts. Built whil
 - Simple validation & formatting
 
 ## Run
-- Xcode: <Version 26.1.1 (17B100)  
+- Xcode: Version 26.1.1 (17B100)  
 - Open `WeSplit.xcodeproj`, build and run.
 
 ## Screenshots
